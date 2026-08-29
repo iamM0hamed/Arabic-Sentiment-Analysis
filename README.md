@@ -1,3 +1,6 @@
+Project Architecture
+_____________________
+
 Arabic-Sentiment-Analysis/
 │
 ├── src/
