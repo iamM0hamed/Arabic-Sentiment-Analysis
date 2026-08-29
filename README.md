@@ -1,6 +1,6 @@
 Project Architecture
 _____________________
-
+```
 Arabic-Sentiment-Analysis/
 │
 ├── src/
@@ -46,3 +46,4 @@ Arabic-Sentiment-Analysis/
 ├── .gitignore
 ├── README.md
 └── .dockerignore
+```
